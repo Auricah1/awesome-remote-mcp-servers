@@ -553,6 +553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PoloPan Fashion MCP](https://polopan.com) `https://mcp-server.polopan.com/mcp`
   [![PoloPan Fashion MCP connector](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion/badges/score.svg)](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion)
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
+- [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
+  [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
+  🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
